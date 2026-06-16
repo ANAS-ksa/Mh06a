@@ -1,8 +1,11 @@
-<h1 align="center">👋 Mansour Hussain</h1>
+<h1 align="center">Hi, I'm Mansour Hussain 👋</h1>
 
 <p align="center">
-  <b>Mobile Applications Developer</b><br>
-  Android (Java) • iOS (SwiftUI) • .NET MAUI • Web Development
+  <b>Software Developer | Mobile & Backend Development</b>
+</p>
+
+<p align="center">
+  Flutter • Spring Boot • Firebase • MySQL
 </p>
 
 <p align="center">
@@ -11,104 +14,127 @@
 
 ---
 
-## 🚀 About Me
-I am a Mobile Application Development student with hands-on experience in building academic and personal projects.
-Over the past year and a half, I have worked on Android, iOS, Cross-Platform, and Web applications, focusing on clean code, system analysis, and practical problem-solving.
-Currently preparing for a professional internship where I aim to gain real industry experience and contribute to production-level systems.
+## About Me
+
+I am a recent graduate in Programming and Smart Devices Applications from Imam Abdulrahman Bin Faisal University.
+
+My primary focus is Mobile and Backend Development. I enjoy building software solutions from requirements analysis and database design to backend APIs and mobile applications.
+
+I have practical experience developing applications using Flutter, Spring Boot, Firebase, and MySQL, and I am continuously improving my skills through real-world projects and self-learning.
 
 ---
 
-## 🛠️ Languages & Technologies
+## Tech Stack
 
-### Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,swift,cs,html,css,js,php" />
-</p>
-
-### Frameworks & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,visualstudio,dotnet,git,github,mysql" />
-</p>
+### Languages
 
 <p>
-  • .NET MAUI (Cross-Platform Development)
+  <img src="https://skillicons.dev/icons?i=java,dart,swift,cs,php,js" />
+</p>
+
+### Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,dotnet" />
+</p>
+
+- Flutter
+- Android Development
+- iOS Development (SwiftUI)
+- Cross-Platform Development (.NET MAUI)
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
+
+- Spring Boot
+- REST APIs
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
+
+- MySQL
+- Firebase
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,visualstudio" />
 </p>
 
 ---
 
-## 🖥️ System & Development Environment
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,powershell" />
-</p>
+## Technical Skills
 
-- Familiar with Operating System concepts (Processes, Memory, File Systems)
-- Basic usage of PowerShell for file management and development tasks
-- Comfortable working with command-line tools
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms Fundamentals
+- System Analysis & Software Requirements
+- Database Design & SQL
+- REST API Development
+- Git & GitHub Version Control
+- UI/UX Fundamentals
 
 ---
 
-## 📊 Language Usage
+## Projects
+
+### 📱 Portfolio Application
+
+**Flutter • Spring Boot • MySQL**
+
+A portfolio platform that allows users to showcase projects, skills, and professional information through a modern mobile application powered by a Spring Boot backend.
+
+---
+
+### 🎓 Tadarbi Application
+
+**Flutter • Firebase**
+
+A mobile application designed to support students during their training journey with a simple and user-friendly experience.
+
+---
+
+### ✈️ Kingdom Airlines Application
+
+**SwiftUI**
+
+An airline reservation simulation application featuring flight browsing, booking workflows, and modern UI design.
+
+---
+
+### 🏦 Bank Management System
+
+**Java**
+
+A banking management system developed using Object-Oriented Programming principles, focusing on account management and banking operations.
+
+---
+
+## Currently Learning
+
+- Spring Security & JWT
+- Flutter Architecture
+- Backend Development Best Practices
+- Software Design Principles
+
+---
+
+## Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mh06a&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mh06a&layout=compact" />
 </p>
 
 ---
 
-## 🧩 Technical Skills
-<ul>
-  <li>Object-Oriented Programming (OOP)</li>
-  <li>System Analysis & SRS Documentation</li>
-  <li>SQL Databases (SQLite, MySQL)</li>
-  <li>Git & GitHub Version Control</li>
-  <li>UI/UX Fundamentals</li>
-</ul>
+## Contact Me
 
----
+📧 Email: Mansour.06.ab.06@gmail.com
 
-## 📂 Projects
-
-### 📱 Mobile Applications
-- 🧮 <b>Calculator App</b> (Java, Swift)  
-  Basic calculator application implemented on Android and iOS.
-
-- 🎓 <b>Student Grades Calculation System</b> (Java)  
-  Console-based system for managing and calculating student grades.
-
-- 💱 <b>Currency Exchange Application</b> (Java)  
-  Currency conversion application with core business logic.
-
-- 🏦 <b>Bank Management System</b> (Java)  
-  Banking system simulation using OOP concepts.
-
-- ✈️ <b>Kingdom Airlines App</b> (iOS – SwiftUI)  
-  Airline booking simulation app with clean UI and navigation flow.
-
-- 🛒 <b>Grocery App</b> (Android – Java)  
-  Product listing, cart management, and local data storage.
-
-- 💊 <b>Medication Reminder App</b> (.NET MAUI – C#)  
-  Cross-platform reminder application with task scheduling.
-
----
-
-### 🌐 Web Applications
-- 📚 <b>Book Store Website</b> (HTML, CSS, JavaScript, PHP)  
-  Full-stack website with dynamic content and database integration.
-
----
-
-### 📊 System Analysis
-- 🚦 <b>Traffic Management System Analysis</b>  
-  Complete system analysis including requirements and documentation.
-
----
-
-## 📫 Contact Me
-<p align="left">
-  <a href="mailto:Mansour.06.ab.06@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/mansour-hussain-b33113217/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+💼 LinkedIn:  
+https://www.linkedin.com/in/mansour-hussain-b33113217/
